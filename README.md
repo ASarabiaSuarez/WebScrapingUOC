@@ -11,7 +11,8 @@ La actividad ha sido realizada en pareja por Esther González y Alberto Sarabia
 
 scr/mango_web_scraping :  es el scrip encargado de parsear la web de la tienda Mango utilizando para ello las librerias BeatifulSoup y selenium.  realizado por Alberto Sarabia y validado por Esther González.
 
-scr/zara_main : es el scrip encargado de lanzar la subrutina dataset_data.
+scr/zara_main : es el scrip encargado de lanzar la subrutina dataset_data. realizado por  Esther González  y validado  por Alberto Sarabia.
+
 
 src/dataset_data : es el encargado de aprsear y extraer la informacion de la tienda Zara utilizando para ello las librerias BeatifulSoup y selenium.  realizado por  Esther González  y validado  por Alberto Sarabia.
 
