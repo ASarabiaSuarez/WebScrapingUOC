@@ -1,8 +1,8 @@
 # Practica1: Web scraping
 
-Descripcion
+## Descripcion
 
-## En esta practica se ha realizado bajo el contexto de la asignatura Tipología y ciclo de vida de datos perteneciente al Master en ciencia de datos ede la universitat oberta de catalunya , en ella hemos aplicado tecnicas de webscraping para obtener informacion de las paginas web pertenecientes a las cadenas Mango y Zara usando el lenguaje de programacion python para crear un dataset a partir de estas webs.
+En esta practica se ha realizado bajo el contexto de la asignatura Tipología y ciclo de vida de datos perteneciente al Master en ciencia de datos ede la universitat oberta de catalunya , en ella hemos aplicado tecnicas de webscraping para obtener informacion de las paginas web pertenecientes a las cadenas Mango y Zara usando el lenguaje de programacion python para crear un dataset a partir de estas webs.
 
 ## Miembros del Equipo-
 La actividad ha sido realizada en pareja por Esther González y Alberto Sarabia
