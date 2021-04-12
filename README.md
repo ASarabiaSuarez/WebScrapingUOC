@@ -16,6 +16,15 @@ scr/zara_main : es el scrip encargado de lanzar la subrutina dataset_data. reali
 
 src/dataset_data : es el encargado de aprsear y extraer la informacion de la tienda Zara utilizando para ello las librerias BeatifulSoup y selenium.  realizado por  Esther González  y validado  por Alberto Sarabia.
 
+## Acceso DOI
+
+el dataset obtenido se ha subido al repositorio Zenodo. con el siguiente DOI y el enlace de acceso.
+
+* DOI : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4681990.svg)](https://doi.org/10.5281/zenodo.4681990)
+
+* link : https://zenodo.org/record/4681990#.YHSsq_XPyUk
+
+
 ## Recursos
 
 * Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
